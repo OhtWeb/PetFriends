@@ -1,2 +1,2 @@
-valid_email = "ungabunga756@gmail.com"
-valid_password = "7472397Wtf"
+valid_email = #Введите email действующего аккаунта https://petfriends.skillfactory.ru/
+valid_password = #Введите пароль
